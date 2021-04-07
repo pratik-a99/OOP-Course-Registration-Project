@@ -74,7 +74,7 @@ public:
         cout << endl << "Course ENPM808X has been removed" << endl;
     }
 
-    void Registered_Courses(){
+    void Registered_Courses(){                                  // Method to list all the registered courses
         cout << endl << "Name : " << Name << endl;
         cout << "Program : " << Program << endl;
         cout << "UID : " << UID << endl;
